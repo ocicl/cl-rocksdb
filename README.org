@@ -1,0 +1,9 @@
+* cl-rocksdb
+
+RocksDB binding for Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/veer66/cl-rocksdb.git |
+| commit  | e995bef                                      |
+| systems | cl-rocksdb                                   |
+|---------+----------------------------------------------|
