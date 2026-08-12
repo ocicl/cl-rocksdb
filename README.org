@@ -7,4 +7,4 @@ RocksDB binding for Common Lisp
 | commit  | e995bef                                      |
 | systems | cl-rocksdb                                   |
 |---------+----------------------------------------------|
-  
+   
